@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ClientAudioStreaming</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="settings">Settings</string>
+    <string name="pref_summary_ip_adress_server">Click to set the  IP address of the server to which the client will connect to </string>
+    <string name="pref_title_ip_adress_server">Server IP Address</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="reconnect">Reconnect</string>
+    <string name="waiting_for_instructions">Waiting for instructions</string>
+    <string name="title_activity_waiting_for_instructions">WaitingForInstructionsActivity</string>
+    
+</resources>
