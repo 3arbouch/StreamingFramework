@@ -63,3 +63,6 @@ proguard/
 captures/
 ### Android Patch ###
 gen-external-apklibs
+
+# mac related files
+.DS_Store

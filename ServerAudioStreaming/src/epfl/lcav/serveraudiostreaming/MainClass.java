@@ -22,7 +22,7 @@ public class MainClass {
 		Properties prop = new Properties();
 		InputStream input = null;
 		try {
-			String filename = "/Users/wissem/Desktop/arbouchSF/AudioStreamingApplication/ServerAudioStreaming/file.properties";
+			String filename = "/Users/mohamedbenarbia/Documents/framework_demo/arbouchstreamingframework/ServerAudioStreaming/file.properties";
 
 			input= new FileInputStream(new File(filename));
 			// load a properties file from class path
