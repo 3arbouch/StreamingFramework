@@ -87,7 +87,7 @@ public class MessageHandler {
 	 * for each message received, this method calls the corresponding service to
 	 * be launched and save the parameters if available.
 	 * 
-	 * @param message
+	 * @param receivedMessage
 	 * @throws UnknownHostException
 	 * @return message to display on the screen that explains the instruction
 	 *         received from the server
