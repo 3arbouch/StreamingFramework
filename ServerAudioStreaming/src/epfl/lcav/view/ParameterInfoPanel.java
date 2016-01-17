@@ -324,6 +324,7 @@ public class ParameterInfoPanel extends JPanel{
 					
 					fileChooser.showDialog(this, "Select");
 					if ((actualDeviceFrame.mSelectedFile = fileChooser.getSelectedFile()) != null) {
+						System.out.println("the selected file to be sent is "+actualDeviceFrame.mSelectedFile.getName());
 						mSelectedFileTextView.setText("Selected File: "
 								+ actualDeviceFrame.mSelectedFile.getName());
 						mSendFileButton.setEnabled(true);
