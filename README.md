@@ -21,21 +21,3 @@ The framework can be used by beginners, students or researchers to either play w
 The framework is still under development and not all signal processing and machine learning algorithms are integrated.
 
 ### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
