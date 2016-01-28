@@ -19,5 +19,3 @@ The configuration of the framework has been made as simple as possible. The user
 
 The framework can be used by beginners, students or researchers to either play with audio signals and observe some interesting properties in such as the real time display of the Fourier transform.   
 The framework is still under development and not all signal processing and machine learning algorithms are integrated.
-
-### How do I get set up? ###
