@@ -1,7 +1,9 @@
 # README #
 
-The streaming framework consists of an Android application and a Java app Server. It is a cloud based solution for real time analytics on streamed data from smartphones. The main goal of the framework is to build a distributed system that control several android phones as well as run statistical signal processing and machine learning algorithms on real time streamed data (Audio, Sensor data ...).
+The streaming framework consists of an Android application and a Java app Server. It is a cloud based solution for real time analytics on streamed data from smartphones. The main goal of the framework is to build a distributed system that control several android phones as well as run statistical signal processing and machine learning algorithms on real time streamed data (Audio, Sensor data ...). 
+
 The final goal is to build an IoT cloud based platform for real time analytics and intelligence. 
+
 We first focused on running algorithms on audio data. Therefore a framework that is able to stream high quality audio data and launch real time computations on the server has been developed.   
 The framework offers these main features:
 
